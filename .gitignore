@@ -1,1 +1,4 @@
 node_modules # folder
+.DS_Store
+.tmp
+npm-debug.log
