@@ -14,4 +14,5 @@ Why does this change matter?
 
 ## Related Issues
 
-- [ ]
+- [ ] Fixes #issue_number
+- [ ] Related to #issue_number
